@@ -7,6 +7,7 @@ public class Practice {
 		int b = 10;
 		int add = a + b;
 		System.out.println(add);
+		System.out.println("Hello World");
 	}
 
 }
